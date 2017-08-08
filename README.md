@@ -1,2 +1,2 @@
-# prom
-Prometheus Endpoints 
+# Claymore Prometheus Endpoint
+
